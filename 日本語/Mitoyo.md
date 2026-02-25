@@ -7,6 +7,4 @@ Image: ![cover.png](https://ppjapanese.wordpress.com/wp-content/uploads/2015/01/
 
 **test**
 
-this is a test description of the deck
-
-something **here**
+this is a test description of the deck a
